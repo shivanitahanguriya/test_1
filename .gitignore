@@ -1,0 +1,7 @@
+# Specifies intentionally untracked files to ignore when using Git
+
+/node_modules
+.env
+.vscode
+/config/db-connection.js
+routes/.DS_Store
